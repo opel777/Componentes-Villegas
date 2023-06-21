@@ -1,0 +1,18 @@
+p{
+    padding: 8em;
+    text-align: center;
+    justify-content:center;
+    background-color:rgba(119, 118, 118, 0.185);
+    color:rgb(8, 8, 8);
+}
+h1{
+    padding: 1em;
+    font-size: 2rem;
+}
+.carousel-inner{
+    padding-left:10%;
+    padding-right: 1%;
+}
+.carousel-control-prev{
+    margin-left:10%;
+}
